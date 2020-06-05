@@ -3,6 +3,7 @@ package arreglos.unidimensionales;
 public class ArregloCicloFor {
 
     public static void main(String[] args) {
+        
         // 1. Arreglo String, notación simplificada
         // Declaramos, instanciamos e inicializamos el arreglo
         String nombres[] = {"Jam", "Andy", "Jesus", "Miley"};
